@@ -1,0 +1,4 @@
+/* No lugar de @tailwind, use os imports diretos das bibliotecas */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
